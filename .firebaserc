@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "express-firestore-yc",
+    "staging": "express-firestore-staging",
+    "dev": "express-firestore-dev",
+    "production": "express-firestore-dev"
+  }
+}
