@@ -1,4 +1,3 @@
-import { response } from "express";
 import { db } from "./dbConnect.js";
 const coll = db.collection('candy');
 
